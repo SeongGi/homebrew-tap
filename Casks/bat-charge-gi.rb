@@ -1,6 +1,6 @@
 cask "bat-charge-gi" do
   version "3.1.7"
-  sha256 "390a58872cc04ff5763cde28fa2d0155db4a21ed3f4d5a980cca27dbcc8be981"
+  sha256 "016a29b0277c9b13d57da2b981ac91ad54dc9b07cb78e49b08f0fccba0f6f465"
 
   url "https://github.com/SeongGi/bat-charge-gi/releases/download/v#{version}/bat-charge-gi.dmg"
   name "bat-charge-gi"
